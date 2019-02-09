@@ -5,8 +5,6 @@ const myid = ['473244618067279872'];
 const prefix = ['-'];
 
 client.on('ready', () => {
-   client.user.setGame(`spam`,'https://www.twitch.tv/idk');
-   client2.user.setGame(`spam`,'https://www.twitch.tv/idk');
    console.log(`----------------`);
    console.log(`Credit Farmm - Script By : Kahrbaa `);
    console.log(`----------------`);
